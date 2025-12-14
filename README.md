@@ -34,3 +34,14 @@ A full-stack PHP practice project demonstrating form handling, session managemen
    );
 3. Update db.php with your local credentials (default XAMPP: root / empty password)
 4. Open XAMPP then in browser open http://localhost/your-folder/index.php
+
+## Project Purpose
+This is a personal learning sandbox to practice full-stack PHP development, including:
+
+Secure form processing
+Database integration
+Responsive UI/UX
+Best practices (PRG pattern, prepared statements, separation of concerns)
+
+Thanks for reviewing my code!
+Elijah G.
